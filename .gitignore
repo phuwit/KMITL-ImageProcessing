@@ -8,3 +8,5 @@ confusion_matrices/
 checkpoints/
 runs/
 data/
+Lab6_Hyperparameter-Tuning/dataset
+ray_results/
